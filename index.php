@@ -126,7 +126,7 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
-            <img src="https://storage.googleapis.com/agatha-projects.appspot.com/FIKIH-circle.png" width="200px">
+            <img src="fikih-circle.png" width="200px">
             <h2>Fikih Firmansyah</h2>
             <p>Medan, Indonesia.</p>
             <a href="https://www.linkedin.com/in/fikih-firmansyah/"><i class="fab fa-linkedin"></i></a>
